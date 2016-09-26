@@ -166,6 +166,7 @@
     <members>copado__testHttpCalloutMock</members>
     <members>copado__testMethodUtilities</members>
     <members>copado__usersStepController</members>
+    <members>myNewClass</members>
     <name>ApexClass</name>
   </types>
   <version>37.0</version>
